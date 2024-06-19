@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README Information
 
 Hey there! 👋 Just a quick heads up that the README is available in both English and Portuguese. Scroll down for the Portuguese version! 🇧🇷
@@ -26,7 +25,7 @@ Welcome to my personal projects repository! 🚀 Here, you'll find a collection 
 
 Feel free to explore the code, raise issues, or collaborate. Connect with me on LinkedIn or drop me an email—I'd love to chat about tech, ideas, or anything under the digital sun!
 
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Email" width="30" height="30">](mailto:seu-galucopiccolofiglioli@ouylook.com)
+
 [<img src="icon/ybvdq4q1.png" alt="DIO" width="30" height="30">](https://www.dio.me/users/glauco_homebroke)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/glauco-runha-piccolo-figlioli-087912306)
 [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30">](https://github.com/glaucopifi)
@@ -58,7 +57,7 @@ Bem-vindo ao meu repositório de projetos pessoais! 🚀 Aqui, você encontrará
 
 Sinta-se à vontade para explorar o código, abrir problemas ou colaborar. Conecte-se comigo na plataforma DIO, no LinkedIn ou envie-me um e-mail. Adoraria conversar sobre tecnologia, ideias ou qualquer assunto digital!
 
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Email" width="30" height="30">](mailto:seu-galucopiccolofiglioli@ouylook.com)
+
 [<img src="icon/ybvdq4q1.png" alt="DIO" width="30" height="30">](https://www.dio.me/users/glauco_homebroke)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/glauco-runha-piccolo-figlioli-087912306)
 [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30">](https://github.com/glaucopifi)
