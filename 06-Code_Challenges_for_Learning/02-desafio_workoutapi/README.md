@@ -17,7 +17,7 @@ Esta é uma API de competição de crossfit chamada WorkoutAPI (isso mesmo rs, e
 
 ## Modelagem de entidade e relacionamento - MER
 
-![MER](https://raw.githubusercontent.com/usuario/repositorio/branch/mer.jpg "Modelagem de entidade e relacionamento")
+![MER](/mer.jpg "Modelagem de entidade e relacionamento")
 
 ## Stack da API
 
